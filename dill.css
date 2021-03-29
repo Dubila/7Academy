@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin:0;
+    
+}
+td{
+width: 60px;
+height: 50px;
+}
+.container{
+display: flex;
+font-size: 30px;
+font-family:25px;
+background-color: white;
+padding:10px;
+margin: 0;
+}
+.one{
+    color: red;
+    padding: 25px;
+}
+.two{
+    background-color: yellow;
+}
+.three{
+    background-color: yellow;
+}
+.four{
+    background-color: yellow;
+}
+.five{
+    background-color: yellow;
+}
+.six{
+    background-color: yellow;
+}
+.seven{
+    background-color: yellow;
+}
+.eight{
+    background-color: yellow;
+}
+.me{
+    float: right;
+
+}
